@@ -1,0 +1,297 @@
+### What is in gff for SQSTM?
+
+
+grep 'SQSTM' GCF_000001405.26_GRCh38_genomic.gff
+NC_000005.10	BestRefSeq	gene	179806388	179838078	.	+.	ID=gene12494;Dbxref=GeneID:8878,HGNC:11280,HPRD:03319,MIM:601530;Name=SQSTM1;description=sequestosome 1;gbkey=Gene;gene=SQSTM1;gene_synonym=A170,OSIL,p60,p62,p62B,PDB3,ZIP3
+NC_000005.10	BestRefSeq	mRNA	179806388	179838078	.	+.	ID=rna27083;Parent=gene12494;Dbxref=GeneID:8878,Genbank:NM_001142298.1,HGNC:11280,HPRD:03319,MIM:601530;Name=NM_001142298.1;gbkey=mRNA;gene=SQSTM1;product=sequestosome 1%2C transcript variant 2;transcript_id=NM_001142298.1
+NC_000005.10	BestRefSeq	exon	179806388	179806591	.	+.	ID=id326957;Parent=rna27083;Dbxref=GeneID:8878,Genbank:NM_001142298.1,HGNC:11280,HPRD:03319,MIM:601530;gbkey=mRNA;gene=SQSTM1;product=sequestosome 1%2C transcript variant 2;transcript_id=NM_001142298.1
+NC_000005.10	BestRefSeq	exon	179811574	179811682	.	+.	ID=id326958;Parent=rna27083;Dbxref=GeneID:8878,Genbank:NM_001142298.1,HGNC:11280,HPRD:03319,MIM:601530;gbkey=mRNA;gene=SQSTM1;product=sequestosome 1%2C transcript variant 2;transcript_id=NM_001142298.1
+NC_000005.10	BestRefSeq	exon	179822958	179823053	.	+.	ID=id326959;Parent=rna27083;Dbxref=GeneID:8878,Genbank:NM_001142298.1,HGNC:11280,HPRD:03319,MIM:601530;gbkey=mRNA;gene=SQSTM1;product=sequestosome 1%2C transcript variant 2;transcript_id=NM_001142298.1
+NC_000005.10	BestRefSeq	exon	179823858	179824087	.	+.	ID=id326960;Parent=rna27083;Dbxref=GeneID:8878,Genbank:NM_001142298.1,HGNC:11280,HPRD:03319,MIM:601530;gbkey=mRNA;gene=SQSTM1;product=sequestosome 1%2C transcript variant 2;transcript_id=NM_001142298.1
+NC_000005.10	BestRefSeq	exon	179824182	179824323	.	+.	ID=id326961;Parent=rna27083;Dbxref=GeneID:8878,Genbank:NM_001142298.1,HGNC:11280,HPRD:03319,MIM:601530;gbkey=mRNA;gene=SQSTM1;product=sequestosome 1%2C transcript variant 2;transcript_id=NM_001142298.1
+NC_000005.10	BestRefSeq	exon	179825146	179825226	.	+.	ID=id326962;Parent=rna27083;Dbxref=GeneID:8878,Genbank:NM_001142298.1,HGNC:11280,HPRD:03319,MIM:601530;gbkey=mRNA;gene=SQSTM1;product=sequestosome 1%2C transcript variant 2;transcript_id=NM_001142298.1
+NC_000005.10	BestRefSeq	exon	179833032	179833246	.	+.	ID=id326963;Parent=rna27083;Dbxref=GeneID:8878,Genbank:NM_001142298.1,HGNC:11280,HPRD:03319,MIM:601530;gbkey=mRNA;gene=SQSTM1;product=sequestosome 1%2C transcript variant 2;transcript_id=NM_001142298.1
+NC_000005.10	BestRefSeq	exon	179833587	179833782	.	+.	ID=id326964;Parent=rna27083;Dbxref=GeneID:8878,Genbank:NM_001142298.1,HGNC:11280,HPRD:03319,MIM:601530;gbkey=mRNA;gene=SQSTM1;product=sequestosome 1%2C transcript variant 2;transcript_id=NM_001142298.1
+NC_000005.10	BestRefSeq	exon	179836436	179838078	.	+.	ID=id326965;Parent=rna27083;Dbxref=GeneID:8878,Genbank:NM_001142298.1,HGNC:11280,HPRD:03319,MIM:601530;gbkey=mRNA;gene=SQSTM1;product=sequestosome 1%2C transcript variant 2;transcript_id=NM_001142298.1
+NC_000005.10	BestRefSeq	mRNA	179807003	179838078	.	+.	ID=rna27084;Parent=gene12494;Dbxref=GeneID:8878,Genbank:NM_001142299.1,HGNC:11280,HPRD:03319,MIM:601530;Name=NM_001142299.1;gbkey=mRNA;gene=SQSTM1;product=sequestosome 1%2C transcript variant 3;transcript_id=NM_001142299.1
+NC_000005.10	BestRefSeq	exon	179807003	179807123	.	+.	ID=id326966;Parent=rna27084;Dbxref=GeneID:8878,Genbank:NM_001142299.1,HGNC:11280,HPRD:03319,MIM:601530;gbkey=mRNA;gene=SQSTM1;product=sequestosome 1%2C transcript variant 3;transcript_id=NM_001142299.1
+NC_000005.10	BestRefSeq	exon	179811574	179811682	.	+.	ID=id326967;Parent=rna27084;Dbxref=GeneID:8878,Genbank:NM_001142299.1,HGNC:11280,HPRD:03319,MIM:601530;gbkey=mRNA;gene=SQSTM1;product=sequestosome 1%2C transcript variant 3;transcript_id=NM_001142299.1
+NC_000005.10	BestRefSeq	exon	179822958	179823053	.	+.	ID=id326968;Parent=rna27084;Dbxref=GeneID:8878,Genbank:NM_001142299.1,HGNC:11280,HPRD:03319,MIM:601530;gbkey=mRNA;gene=SQSTM1;product=sequestosome 1%2C transcript variant 3;transcript_id=NM_001142299.1
+NC_000005.10	BestRefSeq	exon	179823858	179824087	.	+.	ID=id326969;Parent=rna27084;Dbxref=GeneID:8878,Genbank:NM_001142299.1,HGNC:11280,HPRD:03319,MIM:601530;gbkey=mRNA;gene=SQSTM1;product=sequestosome 1%2C transcript variant 3;transcript_id=NM_001142299.1
+NC_000005.10	BestRefSeq	exon	179824182	179824323	.	+.	ID=id326970;Parent=rna27084;Dbxref=GeneID:8878,Genbank:NM_001142299.1,HGNC:11280,HPRD:03319,MIM:601530;gbkey=mRNA;gene=SQSTM1;product=sequestosome 1%2C transcript variant 3;transcript_id=NM_001142299.1
+NC_000005.10	BestRefSeq	exon	179825146	179825226	.	+.	ID=id326971;Parent=rna27084;Dbxref=GeneID:8878,Genbank:NM_001142299.1,HGNC:11280,HPRD:03319,MIM:601530;gbkey=mRNA;gene=SQSTM1;product=sequestosome 1%2C transcript variant 3;transcript_id=NM_001142299.1
+NC_000005.10	BestRefSeq	exon	179833032	179833246	.	+.	ID=id326972;Parent=rna27084;Dbxref=GeneID:8878,Genbank:NM_001142299.1,HGNC:11280,HPRD:03319,MIM:601530;gbkey=mRNA;gene=SQSTM1;product=sequestosome 1%2C transcript variant 3;transcript_id=NM_001142299.1
+NC_000005.10	BestRefSeq	exon	179833587	179833782	.	+.	ID=id326973;Parent=rna27084;Dbxref=GeneID:8878,Genbank:NM_001142299.1,HGNC:11280,HPRD:03319,MIM:601530;gbkey=mRNA;gene=SQSTM1;product=sequestosome 1%2C transcript variant 3;transcript_id=NM_001142299.1
+NC_000005.10	BestRefSeq	exon	179836436	179838078	.	+.	ID=id326974;Parent=rna27084;Dbxref=GeneID:8878,Genbank:NM_001142299.1,HGNC:11280,HPRD:03319,MIM:601530;gbkey=mRNA;gene=SQSTM1;product=sequestosome 1%2C transcript variant 3;transcript_id=NM_001142299.1
+NC_000005.10	BestRefSeq	mRNA	179820842	179838078	.	+.	ID=rna27085;Parent=gene12494;Dbxref=GeneID:8878,Genbank:NM_003900.4,HGNC:11280,HPRD:03319,MIM:601530;Name=NM_003900.4;gbkey=mRNA;gene=SQSTM1;product=sequestosome 1%2C transcript variant 1;transcript_id=NM_003900.4
+NC_000005.10	BestRefSeq	exon	179820842	179821141	.	+.	ID=id326975;Parent=rna27085;Dbxref=GeneID:8878,Genbank:NM_003900.4,HGNC:11280,HPRD:03319,MIM:601530;gbkey=mRNA;gene=SQSTM1;product=sequestosome 1%2C transcript variant 1;transcript_id=NM_003900.4
+NC_000005.10	BestRefSeq	exon	179822958	179823053	.	+.	ID=id326976;Parent=rna27085;Dbxref=GeneID:8878,Genbank:NM_003900.4,HGNC:11280,HPRD:03319,MIM:601530;gbkey=mRNA;gene=SQSTM1;product=sequestosome 1%2C transcript variant 1;transcript_id=NM_003900.4
+NC_000005.10	BestRefSeq	exon	179823858	179824087	.	+.	ID=id326977;Parent=rna27085;Dbxref=GeneID:8878,Genbank:NM_003900.4,HGNC:11280,HPRD:03319,MIM:601530;gbkey=mRNA;gene=SQSTM1;product=sequestosome 1%2C transcript variant 1;transcript_id=NM_003900.4
+NC_000005.10	BestRefSeq	exon	179824182	179824323	.	+.	ID=id326978;Parent=rna27085;Dbxref=GeneID:8878,Genbank:NM_003900.4,HGNC:11280,HPRD:03319,MIM:601530;gbkey=mRNA;gene=SQSTM1;product=sequestosome 1%2C transcript variant 1;transcript_id=NM_003900.4
+NC_000005.10	BestRefSeq	exon	179825146	179825226	.	+.	ID=id326979;Parent=rna27085;Dbxref=GeneID:8878,Genbank:NM_003900.4,HGNC:11280,HPRD:03319,MIM:601530;gbkey=mRNA;gene=SQSTM1;product=sequestosome 1%2C transcript variant 1;transcript_id=NM_003900.4
+NC_000005.10	BestRefSeq	exon	179833032	179833246	.	+.	ID=id326980;Parent=rna27085;Dbxref=GeneID:8878,Genbank:NM_003900.4,HGNC:11280,HPRD:03319,MIM:601530;gbkey=mRNA;gene=SQSTM1;product=sequestosome 1%2C transcript variant 1;transcript_id=NM_003900.4
+NC_000005.10	BestRefSeq	exon	179833587	179833782	.	+.	ID=id326981;Parent=rna27085;Dbxref=GeneID:8878,Genbank:NM_003900.4,HGNC:11280,HPRD:03319,MIM:601530;gbkey=mRNA;gene=SQSTM1;product=sequestosome 1%2C transcript variant 1;transcript_id=NM_003900.4
+NC_000005.10	BestRefSeq	exon	179836436	179838078	.	+.	ID=id326982;Parent=rna27085;Dbxref=GeneID:8878,Genbank:NM_003900.4,HGNC:11280,HPRD:03319,MIM:601530;gbkey=mRNA;gene=SQSTM1;product=sequestosome 1%2C transcript variant 1;transcript_id=NM_003900.4
+NC_000005.10	BestRefSeq	CDS	179820937	179821141	.	+0	ID=cds21324;Parent=rna27085;Dbxref=CCDS:CCDS34317.1,GeneID:8878,Genbank:NP_003891.1,HGNC:11280,HPRD:03319,MIM:601530;Name=NP_003891.1;Note=isoform 1 is encoded by transcript variant 1;gbkey=CDS;gene=SQSTM1;product=sequestosome-1 isoform 1;protein_id=NP_003891.1
+NC_000005.10	BestRefSeq	CDS	179822958	179823053	.	+2	ID=cds21324;Parent=rna27085;Dbxref=CCDS:CCDS34317.1,GeneID:8878,Genbank:NP_003891.1,HGNC:11280,HPRD:03319,MIM:601530;Name=NP_003891.1;Note=isoform 1 is encoded by transcript variant 1;gbkey=CDS;gene=SQSTM1;product=sequestosome-1 isoform 1;protein_id=NP_003891.1
+NC_000005.10	BestRefSeq	CDS	179823858	179824087	.	+2	ID=cds21324;Parent=rna27085;Dbxref=CCDS:CCDS34317.1,GeneID:8878,Genbank:NP_003891.1,HGNC:11280,HPRD:03319,MIM:601530;Name=NP_003891.1;Note=isoform 1 is encoded by transcript variant 1;gbkey=CDS;gene=SQSTM1;product=sequestosome-1 isoform 1;protein_id=NP_003891.1
+NC_000005.10	BestRefSeq	CDS	179824182	179824323	.	+0	ID=cds21324;Parent=rna27085;Dbxref=CCDS:CCDS34317.1,GeneID:8878,Genbank:NP_003891.1,HGNC:11280,HPRD:03319,MIM:601530;Name=NP_003891.1;Note=isoform 1 is encoded by transcript variant 1;gbkey=CDS;gene=SQSTM1;product=sequestosome-1 isoform 1;protein_id=NP_003891.1
+NC_000005.10	BestRefSeq	CDS	179825146	179825226	.	+2	ID=cds21324;Parent=rna27085;Dbxref=CCDS:CCDS34317.1,GeneID:8878,Genbank:NP_003891.1,HGNC:11280,HPRD:03319,MIM:601530;Name=NP_003891.1;Note=isoform 1 is encoded by transcript variant 1;gbkey=CDS;gene=SQSTM1;product=sequestosome-1 isoform 1;protein_id=NP_003891.1
+NC_000005.10	BestRefSeq	CDS	179833032	179833246	.	+2	ID=cds21324;Parent=rna27085;Dbxref=CCDS:CCDS34317.1,GeneID:8878,Genbank:NP_003891.1,HGNC:11280,HPRD:03319,MIM:601530;Name=NP_003891.1;Note=isoform 1 is encoded by transcript variant 1;gbkey=CDS;gene=SQSTM1;product=sequestosome-1 isoform 1;protein_id=NP_003891.1
+NC_000005.10	BestRefSeq	CDS	179833587	179833782	.	+0	ID=cds21324;Parent=rna27085;Dbxref=CCDS:CCDS34317.1,GeneID:8878,Genbank:NP_003891.1,HGNC:11280,HPRD:03319,MIM:601530;Name=NP_003891.1;Note=isoform 1 is encoded by transcript variant 1;gbkey=CDS;gene=SQSTM1;product=sequestosome-1 isoform 1;protein_id=NP_003891.1
+NC_000005.10	BestRefSeq	CDS	179836436	179836593	.	+2	ID=cds21324;Parent=rna27085;Dbxref=CCDS:CCDS34317.1,GeneID:8878,Genbank:NP_003891.1,HGNC:11280,HPRD:03319,MIM:601530;Name=NP_003891.1;Note=isoform 1 is encoded by transcript variant 1;gbkey=CDS;gene=SQSTM1;product=sequestosome-1 isoform 1;protein_id=NP_003891.1
+NC_000005.10	BestRefSeq	CDS	179823005	179823053	.	+0	ID=cds21325;Parent=rna27083;Dbxref=CCDS:CCDS47355.1,GeneID:8878,Genbank:NP_001135770.1,HGNC:11280,HPRD:03319,MIM:601530;Name=NP_001135770.1;Note=isoform 2 is encoded by transcript variant 2;gbkey=CDS;gene=SQSTM1;product=sequestosome-1 isoform 2;protein_id=NP_001135770.1
+NC_000005.10	BestRefSeq	CDS	179823858	179824087	.	+2	ID=cds21325;Parent=rna27083;Dbxref=CCDS:CCDS47355.1,GeneID:8878,Genbank:NP_001135770.1,HGNC:11280,HPRD:03319,MIM:601530;Name=NP_001135770.1;Note=isoform 2 is encoded by transcript variant 2;gbkey=CDS;gene=SQSTM1;product=sequestosome-1 isoform 2;protein_id=NP_001135770.1
+NC_000005.10	BestRefSeq	CDS	179824182	179824323	.	+0	ID=cds21325;Parent=rna27083;Dbxref=CCDS:CCDS47355.1,GeneID:8878,Genbank:NP_001135770.1,HGNC:11280,HPRD:03319,MIM:601530;Name=NP_001135770.1;Note=isoform 2 is encoded by transcript variant 2;gbkey=CDS;gene=SQSTM1;product=sequestosome-1 isoform 2;protein_id=NP_001135770.1
+NC_000005.10	BestRefSeq	CDS	179825146	179825226	.	+2	ID=cds21325;Parent=rna27083;Dbxref=CCDS:CCDS47355.1,GeneID:8878,Genbank:NP_001135770.1,HGNC:11280,HPRD:03319,MIM:601530;Name=NP_001135770.1;Note=isoform 2 is encoded by transcript variant 2;gbkey=CDS;gene=SQSTM1;product=sequestosome-1 isoform 2;protein_id=NP_001135770.1
+NC_000005.10	BestRefSeq	CDS	179833032	179833246	.	+2	ID=cds21325;Parent=rna27083;Dbxref=CCDS:CCDS47355.1,GeneID:8878,Genbank:NP_001135770.1,HGNC:11280,HPRD:03319,MIM:601530;Name=NP_001135770.1;Note=isoform 2 is encoded by transcript variant 2;gbkey=CDS;gene=SQSTM1;product=sequestosome-1 isoform 2;protein_id=NP_001135770.1
+NC_000005.10	BestRefSeq	CDS	179833587	179833782	.	+0	ID=cds21325;Parent=rna27083;Dbxref=CCDS:CCDS47355.1,GeneID:8878,Genbank:NP_001135770.1,HGNC:11280,HPRD:03319,MIM:601530;Name=NP_001135770.1;Note=isoform 2 is encoded by transcript variant 2;gbkey=CDS;gene=SQSTM1;product=sequestosome-1 isoform 2;protein_id=NP_001135770.1
+NC_000005.10	BestRefSeq	CDS	179836436	179836593	.	+2	ID=cds21325;Parent=rna27083;Dbxref=CCDS:CCDS47355.1,GeneID:8878,Genbank:NP_001135770.1,HGNC:11280,HPRD:03319,MIM:601530;Name=NP_001135770.1;Note=isoform 2 is encoded by transcript variant 2;gbkey=CDS;gene=SQSTM1;product=sequestosome-1 isoform 2;protein_id=NP_001135770.1
+NC_000005.10	BestRefSeq	CDS	179823005	179823053	.	+0	ID=cds21326;Parent=rna27084;Dbxref=CCDS:CCDS47355.1,GeneID:8878,Genbank:NP_001135771.1,HGNC:11280,HPRD:03319,MIM:601530;Name=NP_001135771.1;Note=isoform 2 is encoded by transcript variant 3;gbkey=CDS;gene=SQSTM1;product=sequestosome-1 isoform 2;protein_id=NP_001135771.1
+NC_000005.10	BestRefSeq	CDS	179823858	179824087	.	+2	ID=cds21326;Parent=rna27084;Dbxref=CCDS:CCDS47355.1,GeneID:8878,Genbank:NP_001135771.1,HGNC:11280,HPRD:03319,MIM:601530;Name=NP_001135771.1;Note=isoform 2 is encoded by transcript variant 3;gbkey=CDS;gene=SQSTM1;product=sequestosome-1 isoform 2;protein_id=NP_001135771.1
+NC_000005.10	BestRefSeq	CDS	179824182	179824323	.	+0	ID=cds21326;Parent=rna27084;Dbxref=CCDS:CCDS47355.1,GeneID:8878,Genbank:NP_001135771.1,HGNC:11280,HPRD:03319,MIM:601530;Name=NP_001135771.1;Note=isoform 2 is encoded by transcript variant 3;gbkey=CDS;gene=SQSTM1;product=sequestosome-1 isoform 2;protein_id=NP_001135771.1
+NC_000005.10	BestRefSeq	CDS	179825146	179825226	.	+2	ID=cds21326;Parent=rna27084;Dbxref=CCDS:CCDS47355.1,GeneID:8878,Genbank:NP_001135771.1,HGNC:11280,HPRD:03319,MIM:601530;Name=NP_001135771.1;Note=isoform 2 is encoded by transcript variant 3;gbkey=CDS;gene=SQSTM1;product=sequestosome-1 isoform 2;protein_id=NP_001135771.1
+NC_000005.10	BestRefSeq	CDS	179833032	179833246	.	+2	ID=cds21326;Parent=rna27084;Dbxref=CCDS:CCDS47355.1,GeneID:8878,Genbank:NP_001135771.1,HGNC:11280,HPRD:03319,MIM:601530;Name=NP_001135771.1;Note=isoform 2 is encoded by transcript variant 3;gbkey=CDS;gene=SQSTM1;product=sequestosome-1 isoform 2;protein_id=NP_001135771.1
+NC_000005.10	BestRefSeq	CDS	179833587	179833782	.	+0	ID=cds21326;Parent=rna27084;Dbxref=CCDS:CCDS47355.1,GeneID:8878,Genbank:NP_001135771.1,HGNC:11280,HPRD:03319,MIM:601530;Name=NP_001135771.1;Note=isoform 2 is encoded by transcript variant 3;gbkey=CDS;gene=SQSTM1;product=sequestosome-1 isoform 2;protein_id=NP_001135771.1
+NC_000005.10	BestRefSeq	CDS	179836436	179836593	.	+2	ID=cds21326;Parent=rna27084;Dbxref=CCDS:CCDS47355.1,GeneID:8878,Genbank:NP_001135771.1,HGNC:11280,HPRD:03319,MIM:601530;Name=NP_001135771.1;Note=isoform 2 is encoded by transcript variant 3;gbkey=CDS;gene=SQSTM1;product=sequestosome-1 isoform 2;protein_id=NP_001135771.1
+
+## Connecting to google cloud though ssh
+
+ssh larisaok123@35.228.213.21
+
+### Downloading the data
+
+$mkdir breast_cancer
+$cd breast_cancer
+
+$wget https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos/sra-pub-run-5/SRR2148235/SRR2148235.1
+$wget https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos/sra-pub-run-5/SRR2148235/SRR2148236.1
+$wget https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos/sra-pub-run-5/SRR2148237/SRR2148237.1 
+$wget https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos/sra-pub-run-5/SRR2148238/SRR2148238.1 
+$wget https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos/sra-pub-run-5/SRR2148239/SRR2148239.1 
+$wget https://sra-downloadb.be-md.ncbi.nlm.nih.gov/sos/sra-pub-run-5/SRR2148240/SRR2148240.1
+
+
+$ls -lh
+
+total 31G
+-rw-rw-r-- 1 larisaok123 larisaok123 6.3G Sep 16 14:31 SRR2148235.1
+-rw-rw-r-- 1 larisaok123 larisaok123 5.5G Sep 16 14:28 SRR2148236.1
+-rw-rw-r-- 1 larisaok123 larisaok123 4.8G Sep 16 14:27 SRR2148237.1
+-rw-rw-r-- 1 larisaok123 larisaok123 4.0G Sep 16 15:56 SRR2148238.1
+-rw-rw-r-- 1 larisaok123 larisaok123 4.7G Sep 16 14:24 SRR2148239.1
+-rw-rw-r-- 1 larisaok123 larisaok123 5.2G Sep 16 15:52 SRR2148240.1
+
+### Unpacking SRA
+$sudo apt install sra-toolkit # installing the sra-toolkit
+
+$fastq-dump --split-3 SRR2148235.1 # this is paired reads in one file - i will split it in to files during SRA unpacking
+
+larisaok123@instance-3:~/breast_cancer$ ls -lh
+total 75G
+-rw-rw-r-- 1 larisaok123 larisaok123 6.3G Sep 16 14:31 SRR2148235.1
+-rw-rw-r-- 1 larisaok123 larisaok123  23G Nov 20 22:16 SRR2148235.1_1.fastq
+-rw-rw-r-- 1 larisaok123 larisaok123  23G Nov 20 22:16 SRR2148235.1_2.fastq
+-rw-rw-r-- 1 larisaok123 larisaok123 5.5G Sep 16 14:28 SRR2148236.1
+-rw-rw-r-- 1 larisaok123 larisaok123 4.8G Sep 16 14:27 SRR2148237.1
+-rw-rw-r-- 1 larisaok123 larisaok123 4.0G Sep 16 15:56 SRR2148238.1
+-rw-rw-r-- 1 larisaok123 larisaok123 4.7G Sep 16 14:24 SRR2148239.1
+-rw-rw-r-- 1 larisaok123 larisaok123 5.2G Sep 16 15:52 SRR2148240.1
+
+##Downloading reference
+
+mkdir -p ~/references
+cd references
+
+wget ftp://ftp.ebi.ac.uk/pub/databases/gencode/Gencode_human/release_32/gencode.v32.annotation.gtf.gz
+wget ftp://ftp.ebi.ac.uk/pub/databases/gencode/Gencode_human/release_32/GRCh38.primary_assembly.genome.fa.gz
+
+gunzip GRCh38.primary_assembly.genome.fa.gz
+gunzip gencode.v32.annotation.gtf.gz
+
+## STAR - creating indexes (settings of Google cloud VM - CPUS=8, RAM=130 Gb)
+mkdir -p ~/references/STAR_index
+STAR \
+--runThreadN 8 --runMode genomeGenerate \
+--genomeDir ~/references/STAR_index \
+--genomeFastaFiles ~/references/GRCh38.primary_assembly.genome.fa \
+--sjdbGTFfile ~/references/gencode.v32.annotation.gtf \
+--sjdbOverhang 99 \
+--genomeChrBinNbits 15 &> STAR_index_log &
+
+READ THE MANUAL BEFORE RUNNING THE DIFFICULT JOB!!!!
+star throw the exception std::bad_alloc?? TRY TO TURN ON THE BRAIN
+
+2.2.6 Genome with a large number of references.
+If you are using a genome with a large (>5,000) number of references (chrosomes/scaffolds), you
+may need to reduce the --genomeChrBinNbits to reduce RAM consumption. The following scaling
+is recommended: --genomeChrBinNbits = min(18, log2(GenomeLength/NumberOfReferences)).
+For example, for 3 gigaBase genome with 100,000 chromosomes/scaffolds, this is equal to 15.
+
+## Running STAR alignment
+
+nohup STAR --genomeDir ~/references/STAR_index \
+--runThreadN 8 \
+--readFilesIn ~/breast_cancer/SRR2148235.1_1.fastq ~/breast_cancer/SRR2148235.1_2.fastq \
+--outFileNamePrefix ~/breast_cancer/STAR_result/STAR_result_35 \
+--outSAMstrandField intronMotif \
+--outSAMtype BAM SortedByCoordinate &> STAR_alignment_log35 &
+
+Succefully done)))
+
+$samtools flagstat STAR_result_35Aligned.sortedByCoord.out.bam
+
+140381956 + 0 in total (QC-passed reads + QC-failed reads)
+22656270 + 0 secondary
+0 + 0 supplementary
+0 + 0 duplicates
+140381956 + 0 mapped (100.00% : N/A)
+117725686 + 0 paired in sequencing
+58862843 + 0 read1
+58862843 + 0 read2
+117725686 + 0 properly paired (100.00% : N/A)
+117725686 + 0 with itself and mate mapped
+0 + 0 singletons (0.00% : N/A)
+0 + 0 with mate mapped to a different chr
+0 + 0 with mate mapped to a different chr (mapQ>=5)
+
+## Processing rest samples
+# Unpacking multiple SRA archives
+$nano fastq-dump_script
+fastq-dump --split-3 SRR2148236.1 && fastq-dump --split-3 SRR2148237.1 && fastq-dump --split-3 SRR2148238.1 && fastq-dump --split-3 SRR2148239.1 && fastq-dump --split-3 SRR2148240.1
+$chmod +x fastq-dump_script
+$nohup ./fastq-dump_script &
+
+
+$nano fastqc_script
+fastqc -o fastqc_results SRR2148235.1_1.fastq
+fastqc -o fastqc_results SRR2148235.1_2.fastq
+fastqc -o fastqc_results SRR2148236.1_1.fastq
+fastqc -o fastqc_results SRR2148236.1_2.fastq
+fastqc -o fastqc_results SRR2148237.1_1.fastq
+fastqc -o fastqc_results SRR2148237.1_2.fastq
+fastqc -o fastqc_results SRR2148238.1_1.fastq
+fastqc -o fastqc_results SRR2148238.1_2.fastq
+fastqc -o fastqc_results SRR2148239.1_1.fastq
+fastqc -o fastqc_results SRR2148239.1_2.fastq
+fastqc -o fastqc_results SRR2148240.1_1.fastq
+fastqc -o fastqc_results SRR2148240.1_2.fastq
+
+$chmod +x fastqc_script
+$nohup ./fastq_script &
+
+## Alingment of rest samples
+$nano STAR_alignment_script
+
+STAR --genomeDir ~/references/STAR_index \
+--runThreadN 8 \
+--readFilesIn ~/breast_cancer/SRR2148236.1_1.fastq ~/breast_cancer/SRR2148236.1_2.fastq \
+--outFileNamePrefix ~/breast_cancer/STAR_result/STAR_result_36 \
+--outSAMstrandField intronMotif \
+--outSAMtype BAM SortedByCoordinate &> STAR_alignment_log36
+
+STAR --genomeDir ~/references/STAR_index \
+--runThreadN 8 \
+--readFilesIn ~/breast_cancer/SRR2148237.1_1.fastq ~/breast_cancer/SRR2148237.1_2.fastq \
+--outFileNamePrefix ~/breast_cancer/STAR_result/STAR_result_37 \
+--outSAMstrandField intronMotif \
+--outSAMtype BAM SortedByCoordinate &> STAR_alignment_log37
+
+STAR --genomeDir ~/references/STAR_index \
+--runThreadN 8 \
+--readFilesIn ~/breast_cancer/SRR2148238.1_1.fastq ~/breast_cancer/SRR2148238.1_2.fastq \
+--outFileNamePrefix ~/breast_cancer/STAR_result/STAR_result_38 \
+--outSAMstrandField intronMotif \
+--outSAMtype BAM SortedByCoordinate &> STAR_alignment_log38
+
+STAR --genomeDir ~/references/STAR_index \
+--runThreadN 8 \
+--readFilesIn ~/breast_cancer/SRR2148239.1_1.fastq ~/breast_cancer/SRR2148239.1_2.fastq \
+--outFileNamePrefix ~/breast_cancer/STAR_result/STAR_result_39 \
+--outSAMstrandField intronMotif \
+--outSAMtype BAM SortedByCoordinate &> STAR_alignment_log39
+
+STAR --genomeDir ~/references/STAR_index \
+--runThreadN 8 \
+--readFilesIn ~/breast_cancer/SRR2148240.1_1.fastq ~/breast_cancer/SRR2148240.1_2.fastq \
+--outFileNamePrefix ~/breast_cancer/STAR_result/STAR_result_40 \
+--outSAMstrandField intronMotif \
+--outSAMtype BAM SortedByCoordinate &> STAR_alignment_log40
+
+
+$chmod +x STAR_alignment_script
+$nohup ./STAR_alignment_script &
+
+$touch alignment_stat
+$touch alignment_stat_script
+
+samtools flagstat ~/breast_cancer/STAR_result/STAR_result_35Aligned.sortedByCoord.out.bam >> alignment_stat
+samtools flagstat ~/breast_cancer/STAR_result/STAR_result_36Aligned.sortedByCoord.out.bam >> alignment_stat
+samtools flagstat ~/breast_cancer/STAR_result/STAR_result_37Aligned.sortedByCoord.out.bam >> alignment_stat
+samtools flagstat ~/breast_cancer/STAR_result/STAR_result_38Aligned.sortedByCoord.out.bam >> alignment_stat
+samtools flagstat ~/breast_cancer/STAR_result/STAR_result_39Aligned.sortedByCoord.out.bam >> alignment_stat
+samtools flagstat ~/breast_cancer/STAR_result/STAR_result_40Aligned.sortedByCoord.out.bam >> alignment_stat
+
+
+$chmod +x alignment_stat_script
+$nohup ./alignment_stat_script &
+
+alignment_stat
+
+
+## Running Cufflinks
+$nohup cufflinks -p 8 -g ~/references/gencode.v32.annotation.gtf ~/breast_cancer/STAR_result/STAR_result_35Aligned.sortedByCoord.out.bam &> cufflinks35_log &
+
+$mkdir cufflinks_output36
+$cd cufflinks_output36
+$nohup cufflinks -p 8 -g ~/references/gencode.v32.annotation.gtf -o ~/breast_cancer/STAR_result/cufflinks_output36 ~/breast_cancer/STAR_result/STAR_result_36Aligned.sortedByCoord.out.bam &> cufflinks36_log &
+
+$mkdir cufflinks_output37
+$cd cufflinks_output37
+$nohup cufflinks -p 8 -g ~/references/gencode.v32.annotation.gtf -o ~/breast_cancer/STAR_result/cufflinks_output37 ~/breast_cancer/STAR_result/STAR_result_37Aligned.sortedByCoord.out.bam &> cufflinks37_log &
+
+$mkdir cufflinks_output38
+$cd cufflinks_output38
+$nohup cufflinks -p 8 -g ~/references/gencode.v32.annotation.gtf -o ~/breast_cancer/STAR_result/cufflinks_output38 ~/breast_cancer/STAR_result/STAR_result_38Aligned.sortedByCoord.out.bam &> cufflinks38_log &
+
+$mkdir cufflinks_output39
+$cd cufflinks_output39
+$nohup cufflinks -p 8 -g ~/references/gencode.v32.annotation.gtf -o ~/breast_cancer/STAR_result/cufflinks_output39 ~/breast_cancer/STAR_result/STAR_result_39Aligned.sortedByCoord.out.bam &> cufflinks39_log &
+
+
+
+$mkdir cufflinks_output40
+$cd cufflinks_output40
+$nohup cufflinks -p 8 -g ~/references/gencode.v32.annotation.gtf -o ~/breast_cancer/STAR_result/cufflinks_output40 ~/breast_cancer/STAR_result/STAR_result_40Aligned.sortedByCoord.out.bam &> cufflinks40_log &
+
+$touch assembly_GTF_list.txt
+/home/larisaok123/breast_cancer/STAR_result/cufflinks_output35/transcripts.gtf
+/home/larisaok123/breast_cancer/STAR_result/cufflinks_output36/transcripts.gtf
+/home/larisaok123/breast_cancer/STAR_result/cufflinks_output37/transcripts.gtf
+/home/larisaok123/breast_cancer/STAR_result/cufflinks_output38/transcripts.gtf
+/home/larisaok123/breast_cancer/STAR_result/cufflinks_output39/transcripts.gtf
+/home/larisaok123/breast_cancer/STAR_result/cufflinks_output40/transcripts.gtf
+
+$nohup cuffmerge -g ~/references/gencode.v32.annotation.gtf assembly_GTF_list.txt &> cuffmerge_log &
+
+$nohup cuffdiff -o /home/larisaok123/breast_cancer/STAR_result/cuffdiff_output  /home/larisaok123/breast_cancer/STAR_result/merged_asm/merged.gtf  \
+./STAR_result_35Aligned.sortedByCoord.out.bam,STAR_result_36Aligned.sortedByCoord.out.bam,STAR_result_37Aligned.sortedByCoord.out.bam \
+./STAR_result_38Aligned.sortedByCoord.out.bam,STAR_result_39Aligned.sortedByCoord.out.bam,STAR_result_40Aligned.sortedByCoord.out.bam &>cuffdiff_log & 
+
+$scp -r larisaok123@35.228.213.21:~/breast_cancer/STAR_result/cuffdiff_output .
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
